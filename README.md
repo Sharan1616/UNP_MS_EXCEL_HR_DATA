@@ -10,6 +10,6 @@ KEY HIGHLIGHTS :
 4. Visualized Key Performance Indicators(KPIs) in a format that provides a quick overview of attrition trends, reasons and effectiveness of rentention strategies. Facilitates date-driven decision-making and highlights areas for improvement.
 5. Applied relevant Excel functions to optimize and structure the data for effective visualization.
 
-pdf-  https://drive.google.com/file/d/1QCpHiPwN2BbtMPnMphv-__hg9OuOUC6D/view?usp=drive_link
+pdf-  https://drive.google.com/file/d/113Ujsh13VGgINtfTWFER45CdwzDtcC3C/view
 
-excel - https://in.docworkspace.com/d/sIKWd0KwvrPSDrgY
+excel - https://docs.google.com/spreadsheets/d/1EwyjJoDBNswNtYFM3Mmo-AHSAJeMMyIt/edit?usp=sharing&ouid=103768063327737924793&rtpof=true&sd=true
